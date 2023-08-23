@@ -79,7 +79,7 @@ size_t print_list(const list_t *h)
 }
 
 /**
- * node_starts_with - this returns node whose string 
+ * node_starts_with - this returns node whose string
  * @node: pointer to list head
  * @prefix: string to match
  * @c: the next character after prefix to match

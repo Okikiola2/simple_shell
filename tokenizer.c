@@ -1,7 +1,7 @@
 #include "shel.h"
 
 /**
- * **strtow - this splits a string into words. 
+ * **strtow - this splits a string into words.
  * @str: the input string
  * @d: the delimeter string
  * Return: a pointer to an array of strings, or NULL on failure
